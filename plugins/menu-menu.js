@@ -19,11 +19,11 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「BOT IZN」
+let str = `╭「𝐉𝐡𝐨𝐧𝐲𝐁𝐨𝐭」
 │➯ *𝙷𝙾𝙻𝙰,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Aleizn
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51992621601
-│➯ *Yape: 914079837
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐉𝐡𝐨𝐧𝐲𝐁𝐨𝐭
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/51971409380
+│➯ *Yape: 971409380
 │➯ *ғᴇᴄʜᴀ:➟${date}
 │➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}

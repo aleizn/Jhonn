@@ -17,11 +17,11 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+let str = `╭「𝐉𝐡𝐨𝐧𝐲𝐁𝐨𝐭」
 │➯𝙷𝙾𝙻𝙰,➟${taguser}
-│➯𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Aleizn
-│➯*𝙸𝙽𝙵𝙾: Wa.me/51992621601
-│➯Yape: 914079837
+│➯𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐉𝐡𝐨𝐧𝐲𝐁𝐨𝐭
+│➯*𝙸𝙽𝙵𝙾: Wa.me/51971409380
+│➯Yape: 971409380
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
